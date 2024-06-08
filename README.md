@@ -1,1 +1,1 @@
-"# SIC-WEEK3" 
+# SIC-WEEK3
