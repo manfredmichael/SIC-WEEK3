@@ -6,3 +6,9 @@ Wokwi Challanges
 
 
 ### Required Programs
+
+- Postman : https://www.postman.com/
+- ⁠Arduino IDE 2.0 : https://www.arduino.cc/en/software
+- ⁠ESP32 Kit & USB Cables 
+- Conda : https://docs.anaconda.com/free/miniconda/ (kalo udah install python gak perlu install ini)
+- ⁠VS Code : https://code.visualstudio.com/ 
